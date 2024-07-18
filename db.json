@@ -1,3 +1,64 @@
 {
-  "": []
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Islom",
+      "lastname": "Karimov"
+    },
+    {
+      "id": 2,
+      "firstname": "Dilshod",
+      "lastname": "Tursunov"
+    },
+    {
+      "id": 3,
+      "firstname": "Leyla",
+      "lastname": "Mammadova"
+    },
+    {
+      "id": 4,
+      "firstname": "Rustam",
+      "lastname": "Ahmedov"
+    },
+    {
+      "id": 5,
+      "firstname": "Sanobar",
+      "lastname": "Rahmatova"
+    },
+    {
+      "id": 6,
+      "firstname": "Jahongir",
+      "lastname": "Musayev"
+    },
+    {
+      "id": 7,
+      "firstname": "Malika",
+      "lastname": "Yusupova"
+    },
+    {
+      "id": 8,
+      "firstname": "Sherzod",
+      "lastname": "Sharipov"
+    },
+    {
+      "id": 9,
+      "firstname": "Gulnora",
+      "lastname": "Ibragimova"
+    },
+    {
+      "id": 10,
+      "firstname": "Rustam",
+      "lastname": "Yusufov"
+    },
+    {
+      "id": 11,
+      "firstname": "Zamira",
+      "lastname": "Sultonova"
+    },
+    {
+      "id": 12,
+      "firstname": "Akmal",
+      "lastname": "Jabbarov"
+    }
+  ]
 }
