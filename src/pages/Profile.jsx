@@ -4,8 +4,9 @@ import { useAuth } from "../hooks/useAuth";
 const Profile = () => {
   const { user, logout } = useAuth();
   return (
-    <div className="container py-5">
+    <div className="container py-12">
       <h1>Username: {user?.username || "N/A"}</h1>
+      <h1>Password: {user?.password || "N/A"}</h1>
       <StyledButton variant="outline" onClick={logout}>
         Logout
       </StyledButton>

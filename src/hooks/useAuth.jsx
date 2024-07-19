@@ -13,7 +13,7 @@ export const AuthProvider = ({ children }) => {
 
   const login = (username, password) => {
     if (username === "admin" && password === "1111") {
-      setUser({ username });
+      setUser({ username, password });
       navigate("/posts");
     } else {
       alert("Login yoki parol noto'g'ri!");
